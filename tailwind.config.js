@@ -38,7 +38,7 @@ module.exports = {
         /**
          * @description 페이지 최상단 gradient의 종료 컬러입니다.
          */
-        GRADIENT_TO: "#0c8599",
+        GRADIENT_TO: "#A3A3A2",
       },
     },
   },
