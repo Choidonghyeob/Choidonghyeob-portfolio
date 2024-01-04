@@ -21,10 +21,10 @@ const Home: NextPage<DataProps> = ({
   information,
   workExperience,
   project,
-  activity,
+  //activity,
   education,
-  certificate,
-  award,
+  //certificate,
+  //award,
 }) => {
   return (
     <>
