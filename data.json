@@ -36,7 +36,7 @@
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
       "period": ["2022. 07", "2022. 09"],
-      "stack": ["Java", "SpringBoot", "JavaScript", "Ajax", "Oracle" ]
+      "stack": ["Java", "SpringBoot", "Node.js", "Ajax", "Oracle" ]
     }
   ],
 
