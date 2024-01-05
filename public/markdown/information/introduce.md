@@ -1,3 +1,3 @@
-- Java, Jsp, JavaScript, Spring Framework, Spring Boot, python, CSS, Oracle
+- Java, Jsp, JavaScript, Spring Framework, Spring Boot, Python, CSS, Oracle
 - 확실한 OUTPUT
 - 기본 흐름에 대한 이해로 원활한 습득력
