@@ -32,14 +32,14 @@
       "id": 0,
       "name": "[JavaCodings] - 교육과정 내 팀 프로잭트",
       "description": "'자바코딩즈' 라는 가상의 구단명의로 굿즈를 판매하는 쇼핑몰",
-      "webUrl": "https://github.com/sjoleee/",
+      "webUrl": "",
       "repoUrl": "https://github.com/JavA-Codings/JavaCodings",
       "isTeam": true,
       "period": ["2023. 10", "2023. 12"],
-      "stack": ["Java", "SpringBoot", "JavaScript", "Ajax", "Oracle" ]
+      "stack": ["Java", "SpringBoot", "JQuery", "JSP", "pure HTML", "CSS", "MyBatis", "Oracle Database", "Gradle" ]
     }
   ],
-
+  
   "activity": [
     {
       "id": 0,
