@@ -29,7 +29,7 @@
 
   "project": [
     {
-      "id": 0,
+      "id": JavaCodingsLogo,
       "name": "[JavaCodings] - 교육과정 내 팀 프로잭트",
       "description": "'자바코딩즈' 라는 가상의 구단명의로 굿즈를 판매하는 쇼핑몰. 관리자와 사용자 페이지 분리",
       "webUrl": "https://github.com/sjoleee/",
